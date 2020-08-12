@@ -12,4 +12,4 @@ Just write in how much time you want to finish one or multiple tasks and let the
 Exemple of time prompt: ``1 hour and 2 minutes``
 
 ## Warning:
-All hour or minute value that are taken need to be an integer.
+All hours or minutes that are taken need to be an integer.
