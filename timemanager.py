@@ -44,10 +44,11 @@ def task_taker():
 
     except:
         print('Enter an integer.')
-v1=1
+
+
 minutepast = 0
 hourpast = 0
-if v1==1:
+try:
     m=0
     while True:
         if v2 == 0:
@@ -226,5 +227,5 @@ if v1==1:
                         m=m+1
 
 
-#except:
-    #print('An error occured... please restart the progam.')
+except:
+    print('An error occured... please restart the progam.')
